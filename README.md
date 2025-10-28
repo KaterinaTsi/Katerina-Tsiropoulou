@@ -20,7 +20,6 @@ I am looking for **research and internship opportunities** in Europe where I can
 ### 🌐 Web & Frameworks
 ![Flask](https://img.shields.io/badge/Flask-1.1-green?style=flat-square&logo=flask)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26-red?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E-yellow?style=flat-square&logo=javascript)
 
 ### 🗄 Databases & Tools
